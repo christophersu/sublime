@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"Browser Refresh",
+		"DashDoc",
+		"Dracula Color Scheme",
+		"Git",
+		"Increment Selection",
+		"Insert Nums",
+		"LaTeXTools",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Modern",
+		"Python Improved",
+		"Sass",
+		"Solarized Color Scheme",
+		"Theme - Afterglow",
+		"Theme - Spacegray"
+	]
+}
